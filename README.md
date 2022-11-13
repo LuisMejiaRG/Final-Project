@@ -13,4 +13,4 @@ In order to test it out, follow the next steps:
 2- Download the file ProyectoFinal.ipynb or .py
 
 Once you have download it. You have to run it and the program will ask you some questions, follow the instructions and answer correctly. If any error happend try again. 
-The algorithm will pop out the estimated class and the ametropia you may have. THIS IS JUST A DIAGNOST, PLEASE VISIT YOUR TRUSTY OPTOMETRIST. 
+The algorithm will pop out the estimated class and the ametropia you may have, the cost of the lents you may have to use and the treatment. THIS IS JUST A DIAGNOST, PLEASE VISIT YOUR TRUSTY OPTOMETRIST. 
